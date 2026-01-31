@@ -2,7 +2,7 @@
 set -e
 
 # Pull the Docker image from Docker Hub
-docker pull
+docker pull im
 
 # Run the Docker image as a container
 echo
